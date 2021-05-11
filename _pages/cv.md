@@ -9,51 +9,24 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+## [Full CV](../files/KaraFong_CV.pdf)
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+## Education
+* Ph.D. in Chemical and Biomolecular Engineering, University of California, Berkeley (2022, expected)
+* M.Phil in Materials Science & Metallurgy, University of Cambridge (2017)
+* B.S. in Chemical Engineering, Stanford University (2016)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Research Experience
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* University of California, Berkeley
+  * Graduate student researcher in Bryan D. McCloskey and Kristin A. Persson groups (2017 - Present)
+
+* University of Cambridge
+  * Master's student in the Active and Intelligent Materials Lab (2016 - 2017)
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* Stanford University
+  * Undergraduate researcher in Thomas F. Jaramillo research group (2013 - 2016)
+  * Research assistant in Timothy W. Meyer research group (2015 - 2016)
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* J&uuml;lich Research Center
+  * Research intern in Electrochemical Process Engineering Division (2014)
