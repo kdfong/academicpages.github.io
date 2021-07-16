@@ -6,8 +6,11 @@ author_profile: true
 ---
 [Google Scholar Profile](https://scholar.google.com/citations?user=4Yjn1WMAAAAJ&hl=en)
 
+19\. T. Hou, **K. D. Fong**, J. Wang, K. A. Persson. “The Solvation Structure, Transport Properties and Reduction Behavior of Carbonate-Based Electrolytes of Lithium-Ion Batteries.” (Submitted).
 
-17\. H. K. Bergstrom, **K. D. Fong**, B. D. McCloskey. “Interfacial Effects on Transport Coefficient Measurements in Li-ion Battery Electrolytes.” Submitted, 2021. [[Preprint](https://ecsarxiv.org/b3yjm/)]
+18\. A. J. Ringsby, **K. D. Fong**, J. Self, H. K. Bergstrom, B. D. McCloskey, K. A. Persson. “Transport Phenomena in Low Temperature Lithium-Ion Battery Electrolytes.” *Journal of the Electrochemical Society* 2021 (in press). 
+
+17\. H. K. Bergstrom, **K. D. Fong**, B. D. McCloskey. “Interfacial Effects on Transport Coefficient Measurements in Li-ion Battery Electrolytes.” *Journal of the Electrochemical Society* 2021, 168: 060543. [[doi](https://iopscience.iop.org/article/10.1149/1945-7111/ac0994)]
 
 16\. **K. D. Fong**, J. Self, B. D. McCloskey, K. A. Persson. “Ion Correlations and Their Impact on Transport in Polymer-Based Electrolytes.” *Macromolecules*, 2021, 54, 6: 2575-2591. [[doi](https://doi.org/10.1021/acs.macromol.0c02545)]
 
@@ -27,7 +30,7 @@ Electrolytes for Multivalent Battery Applications.” *J. Phys. Chem.
 Lett*, 2020, 11, 6: 2046-2052. [[doi](https://doi.org/10.1021/acs.jpclett.0c00334)]
 
 12\. J. Self, **K. D. Fong**, and K. A. Persson. “Transport in
-Superconcentrated LiPF~6~ and LiBF~4~/Propylene Carbonate Electrolytes.”
+Superconcentrated LiPF<sub>6</sub> and LiBF<sub>4</sub>/Propylene Carbonate Electrolytes.”
 *ACS Energy Letters*, 2019, 4: 2843-2849. [[doi](https://doi.org/10.1021/acsenergylett.9b02118)]
 
 11\. J. Self, **K. D. Fong**, E. R. Logan, and K. A. Persson. “Ion
@@ -76,7 +79,7 @@ Dialysis Has Not Proven Much Better.” *Seminars in Dialysis*, 2016, 29:
 
 2\. T.M. Meyer, T.L. Sirich, **K. D. Fong**, N.S. Plummer, T. Shafi, S.
 Hwan, T. Banerjee, Y. Zhu, N.R. Powe, X. Hai, and T.H. Hostetter.
-“Kt/V~urea~ and Nonurea Small Solute Levels in the Hemodialysis Study.”
+“Kt/V<sub>urea</sub> and Nonurea Small Solute Levels in the Hemodialysis Study.”
 *Journal of the American Society of Nephrology*, 2016, 27: 3469-3478. [[doi](https://jasn.asnjournals.org/content/27/11/3469.short)]
 
 1\. J.D. Benck, S.C. Lee, **K. D. Fong**, J. Kibsgaard, R. Sinclair, and
