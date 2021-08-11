@@ -6,9 +6,7 @@ author_profile: true
 ---
 [Google Scholar Profile](https://scholar.google.com/citations?user=4Yjn1WMAAAAJ&hl=en)
 
-19\. T. Hou, **K. D. Fong**, J. Wang, K. A. Persson. “The Solvation Structure, Transport Properties and Reduction Behavior of Carbonate-Based Electrolytes of Lithium-Ion Batteries.” (Submitted).
-
-18\. A. J. Ringsby, **K. D. Fong**, J. Self, H. K. Bergstrom, B. D. McCloskey, K. A. Persson. “Transport Phenomena in Low Temperature Lithium-Ion Battery Electrolytes.” *Journal of the Electrochemical Society*, 2021 (in press). 
+18\. A. J. Ringsby, **K. D. Fong**, J. Self, H. K. Bergstrom, B. D. McCloskey, K. A. Persson. “Transport Phenomena in Low Temperature Lithium-Ion Battery Electrolytes.” *Journal of the Electrochemical Society*, 2021. [[doi](https://iopscience.iop.org/article/10.1149/1945-7111/ac1735/meta)]
 
 17\. H. K. Bergstrom, **K. D. Fong**, B. D. McCloskey. “Interfacial Effects on Transport Coefficient Measurements in Li-ion Battery Electrolytes.” *Journal of the Electrochemical Society*, 2021, 168: 060543. [[doi](https://iopscience.iop.org/article/10.1149/1945-7111/ac0994)]
 
