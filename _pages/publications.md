@@ -6,7 +6,7 @@ author_profile: true
 ---
 [Google Scholar Profile](https://scholar.google.com/citations?user=4Yjn1WMAAAAJ&hl=en)
 
-20.\ J. Self, H. K. Bergstrom, **K. D. Fong**, B. D. McCloskey, K. A. Persson. “A Theoretical Model for Computing Freezing Point Depression of Lithium-Ion Battery Electrolytes.” *Journal of the Electrochemical Society*, 2021, 168: 120532. [[doi](https://iopscience.iop.org/article/10.1149/1945-7111/ac3e47/meta)]
+20\. J. Self, H. K. Bergstrom, **K. D. Fong**, B. D. McCloskey, K. A. Persson. “A Theoretical Model for Computing Freezing Point Depression of Lithium-Ion Battery Electrolytes.” *Journal of the Electrochemical Society*, 2021, 168: 120532. [[doi](https://iopscience.iop.org/article/10.1149/1945-7111/ac3e47/meta)]
 
 19\. T. Hou,  **K. D. Fong**, J. Wang, K. A. Persson. “The Solvation Structure, Transport Properties and Reduction Behavior of Carbonate-Based Electrolytes of Lithium-Ion Batteries.” *Chemical Science*, 2021, 12, 44: 14740-14751. [[doi](https://pubs.rsc.org/en/content/articlehtml/2021/sc/d1sc04265c)]
 

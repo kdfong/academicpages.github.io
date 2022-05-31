@@ -12,14 +12,14 @@ redirect_from:
 ## [Full CV](../files/KaraFong_CV.pdf)
 
 ## Education
-* Ph.D. in Chemical and Biomolecular Engineering, University of California, Berkeley (2022, expected)
+* Ph.D. in Chemical and Biomolecular Engineering, University of California, Berkeley (2022)
 * M.Phil in Materials Science & Metallurgy, University of Cambridge (2017)
 * B.S. in Chemical Engineering, Stanford University (2016)
 
 ## Research Experience
 
 * University of California, Berkeley
-  * Graduate student researcher in Bryan D. McCloskey and Kristin A. Persson groups (2017 - Present)
+  * Graduate student researcher in Bryan D. McCloskey and Kristin A. Persson groups (2017 - 2022)
 
 * University of Cambridge
   * Master's student in the Active and Intelligent Materials Lab (2016 - 2017)
