@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a recent PhD graduate from the Department of Chemical and Biomolecular Engineering at the University of California, Berkeley, co-advised by Prof. [Kristin Persson](https://perssongroup.lbl.gov/) and Prof. [Bryan McCloskey](http://www.mccloskeylab.com/). I also collaborate with Prof. [Kranthi Mandadapu](http://www.cchem.berkeley.edu/kranthi/). My research focuses on theory and simulation of transport phenomena in lithium ion battery electrolytes. Prior to coming to Berkeley, I graduated with an M.Phil. in Materials Science and Metallurgy from the University of Cambridge in 2017. I received my B.S.  in Chemical Engineering from Stanford University in 2016. 
+I am currently a [Schmidt Science Fellow](https://schmidtsciencefellows.org/fellow/kara-fong/) and [Junior Research Fellow](https://www.trin.cam.ac.uk/fellows/junior-research-fellowships/) in Trinity College at the University of Cambridge, working with Profs. [Clare Grey](https://www.ch.cam.ac.uk/group/grey/index) and [Angelos Michaelides](https://www.ch.cam.ac.uk/group/michaelides/). In early 2025, I will join Caltech as an Assistant Professor of Chemical Engineering.
 
-I will begin as Junior Research Fellow at the University of Cambridge in Fall 2022, then I will join Caltech as an Assistant Professor of Chemical Engineering in early 2025.
+I graduated with my PhD from the Department of Chemical and Biomolecular Engineering at the University of California, Berkeley, co-advised by Prof. [Kristin Persson](https://perssongroup.lbl.gov/) and Prof. [Bryan McCloskey](http://www.mccloskeylab.com/). I also collaborated with Prof. [Kranthi Mandadapu](http://www.cchem.berkeley.edu/kranthi/). My research focused on theory and simulation of transport phenomena in lithium ion battery electrolytes. Prior to coming to Berkeley, I graduated with an MPhil in Materials Science and Metallurgy from the University of Cambridge in 2017. I received my BS in Chemical Engineering from Stanford University in 2016. 
 
 For more information, see my [CV](files/KaraFong_CV.pdf). 
