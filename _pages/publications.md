@@ -6,6 +6,10 @@ author_profile: true
 ---
 [Google Scholar Profile](https://scholar.google.com/citations?user=4Yjn1WMAAAAJ&hl=en)
 
+22\. P. K. Jones, **K. D. Fong**, K. A. Persson, A. A. Lee. “Inferring global dynamics from local structure in liquid electrolytes.” *arXiv preprint*, 2022, [[arXiv:2208.03182](https://doi.org/10.48550/arXiv.2208.03182)].
+
+21\. J. Cheng, **K. D. Fong**, K. A. Persson. “Materials design principles of amorphous cathode coatings for lithium‑ion batteryapplications.” *Journal of Materials Chemistry A*, 2022. [[doi](https://doi.org/10.1039/D2TA06051E)]
+
 20\. J. Self, H. K. Bergstrom, **K. D. Fong**, B. D. McCloskey, K. A. Persson. “A Theoretical Model for Computing Freezing Point Depression of Lithium-Ion Battery Electrolytes.” *Journal of the Electrochemical Society*, 2021, 168: 120532. [[doi](https://iopscience.iop.org/article/10.1149/1945-7111/ac3e47/meta)]
 
 19\. T. Hou,  **K. D. Fong**, J. Wang, K. A. Persson. “The Solvation Structure, Transport Properties and Reduction Behavior of Carbonate-Based Electrolytes of Lithium-Ion Batteries.” *Chemical Science*, 2021, 12, 44: 14740-14751. [[doi](https://pubs.rsc.org/en/content/articlehtml/2021/sc/d1sc04265c)]
